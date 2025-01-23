@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Gwendolyn Espinoza"
 date: "Data 2401"
 output: html_document
 ---
@@ -34,4 +34,30 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
- 
+
+# My Work Here!
+
+## Wise Words
+
+> "May the odds be ever in your favor"
+
+[Know More!](https://www.wikihow.com/May-the-Odds-Be-Ever-in-Your-Favor)
+
+## My Semester
+
+| Course Number | Course Title | Instructor Name |
+|:--------------|--------------|-----------------|
+| __3302__ | _Probability and Statistics_ | Plamen Simenov |
+| __3306__ | _Introduction to Modern Algebra_ | Cesar Garza |
+| __2401__ | _Data Science 1_ | Katherine Shoemaker |
+| __3301__ | _Differential Equations_ | Edwin Tecarro |
+
+## I Recommend
+
+### The Weeknd
+
+> "... the diamonds are forever"
+
+* List of things he has done
+  + A show
+  + Many albums
